@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zytha</h1>
 <h3 align="center">A passionate Web Desginer from Malaysia!</h3>
 
-- 🔭 I’m currently working on [my website](zytha.github.io)
+- 🔭 I’m currently working on [My Personal Portfolio](https://zytha.github.io/profile)
 
 - 🌱 I’m currently learning **JavaScript**
 
