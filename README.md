@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Zytha</h1>
 <h3 align="center">A passionate Web Desginer from Malaysia!</h3>
 
-- 🔭 I’m currently working on [The "RPS Fight"]((private))
+- 🔭 I’m currently working on [my website](zytha.github.io)
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **tailwindcss**
+- 💬 Ask me about **Minecraft**
 
-- 📫 How to reach me **yangyong080228@gmail.com**
+- 📫 How to reach me **zytha.dev@gmail.com**
 
-- ⚡ Fun fact **I am not good at coding.**
+- ⚡ Fun fact **I love to make websites :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
