@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zytha</h1>
-<h3 align="center">A passionate Web Desginer from Malaysia!</h3>
+<h3 align="center">A passionate Frontend Developer from Malaysia!</h3>
 
 - 🔭 I’m currently working on [My Personal Portfolio](https://zytha.github.io/profile)
 
