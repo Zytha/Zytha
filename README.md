@@ -29,5 +29,5 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zytha&show_icons=true&locale=en&layout=compact" alt="zytha" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zytha&show_icons=true&locale=en" alt="zytha" /></p>
+<p>&nbsp;<img align="center" maring-top="10rem" src="https://github-readme-stats.vercel.app/api?username=zytha&show_icons=true&locale=en" alt="zytha" /></p>
 <br>
