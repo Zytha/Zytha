@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zytha</h1>
 <h3 align="center">A passionate Front-End Developer from Malaysia!</h3>
 
+<p align="left"> <a href="https://twitter.com/xxyangxx" target="blank"><img src="https://img.shields.io/twitter/follow/xxyangxx?logo=twitter&style=for-the-badge" alt="xxyangxx" /></a> </p>
+
 - 🔭 I’m currently working on **nothing :D**
 
 - 🌱 I’m currently learning **JavaScript**
