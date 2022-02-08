@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Minecraft Bedrock**
 
-- 📫 How to reach me **zytha.dev@gmail.com**
+- 📫 How to reach me **yangyong080228@gmail.com**
 
 - ⚡ Fun fact **I am just a kid!**
 
