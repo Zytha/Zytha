@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://zytha.github.io](https://zytha.github.io)
+- 👨‍💻 All of my projects are available at [My Personal Portfolio](https://zytha.ml)
 
 - 💬 Ask me about **Minecraft Bedrock**
 
