@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zytha</h1>
 <h3 align="center">A passionate frontend web developer from Malaysia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zytha" alt="zytha" /></a> </p>
-
 - 🌱 I’m currently learning **React.js or Next.js**
 
 - 👨‍💻 All of my projects are available at [zytha.ml](zytha.ml)
