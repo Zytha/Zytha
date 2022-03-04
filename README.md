@@ -24,7 +24,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/zytha"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zytha" /></a></p><br><br>
 
-<div align="left">
+<div align="center">
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zytha&show_icons=true&locale=en" alt="zytha" /></p>
   
