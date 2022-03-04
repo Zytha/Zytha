@@ -26,6 +26,6 @@
 
 <div align="left">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zytha&show_icons=true&locale=en" alt="zytha" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zytha&show_icons=true&locale=en" alt="zytha" /></p>
 
 </div>
