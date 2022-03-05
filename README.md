@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.js or Next.js**
 
-- 👨‍💻 All of my projects are available at [zytha.ml](zytha.ml)
+- 👨‍💻 All of my projects are available at [zytha.ml](https://zytha.ml)
 
 - 💬 Ask me about **Minecraft**
 
