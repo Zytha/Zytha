@@ -1,7 +1,9 @@
-# 💫About Me :
-🌐 I'm from Malaysia
-💻 I'm a FrontEnd Web Developer
-🌱 I'm currently learning C# and React Native
+# 💫About Me
+<ul>
+<li>🌐 I'm from Malaysia<li/>
+<li>💻 I'm a FrontEnd Web Developer<li/>
+<li>🌱 I'm currently learning C# and React Native<li/>
+</ul>
 
 
 ## 🌐Socials
